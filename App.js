@@ -7,7 +7,7 @@ import codePush from 'react-native-code-push';
 const App = () => {
   return (
     <>
-       <Text>aaa</Text>
+       <Text>aaajjj</Text>
     </>
   );
 };
