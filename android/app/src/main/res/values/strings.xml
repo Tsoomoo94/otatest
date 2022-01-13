@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">otatest</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">BAp33gJ7nvcvFqp2WuyC33q6_XqIxKkDcUJ2W</string>
 </resources>
