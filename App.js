@@ -7,7 +7,8 @@ import codePush from 'react-native-code-push';
 const App = () => {
   return (
     <>
-       <Text>aaajjj</Text>
+       <Text>Шинэчлэлт</Text>
+       <Text>шууд шинэчлэлт орж байна уу.</Text>
     </>
   );
 };
